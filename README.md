@@ -1,4 +1,4 @@
-# PicoOS pocket BMS! // Under-construction as of 5/2026
+# PicoOS pocket BMS! // John Bumbera 2026
 BMS prototype OS for the commercially available ClockworkPi PicoCalc!
 Live demo out now! --> PicoCalcProSim
 
